@@ -3,7 +3,7 @@
 - 👨‍💼 Atualmente trabalhando na empresa Tobruk soluçãos em Ti como jovem aprendiz em desenvolvimento
 - 📖 Estudando Python
 
-  *Estudando a linguagem*
+  *Estudando a linguagem
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
    
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
