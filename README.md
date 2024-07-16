@@ -1,19 +1,10 @@
 ## Olá a todos 👋
 
 - 👨‍💼 Atualmente trabalhando na empresa Tobruk soluçãos em Ti como jovem aprendiz em desenvolvimento
-- 📖 Estudando Node.js e frameworks
-- 🏫 Cursando ADS (Analise e desenvolvimento de software) na faculdade de tecnologia (FATEC)
+- 📖 Estudando Python
 
-- **Linguagem de Programação**: 
-  - [Python](https://www.python.org/)
-  - [JavaScript](https://www.javascript.com/)
-  - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-  - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- **Frameworks e Bibliotecas**:
-  - [Django](https://www.djangoproject.com/) para o backend.
-  - [React](https://reactjs.org/) para o frontend.
-- **Banco de Dados**:
-  - [PostgreSQL](https://www.postgresql.org/)
-- **Ferramentas e Plataformas**:
-  - [Docker](https://www.docker.com/) para containerização.
-  - [GitHub Actions](https://github.com/features/actions) para CI/CD.
+  
+ - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
